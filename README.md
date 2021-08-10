@@ -21,3 +21,4 @@ The goal is to get for pieces of your own color in a row(horizontally, verticall
 5.Space Invaders
 6.Frogger
 7.Tetris
+# Memory game
